@@ -1,2 +1,3 @@
 # CIFAR-10
-Classification and Data Augmentation on CIFAR-10 Dataset
+This repository contains part of my second homework in **Deep Learning** graduate course at the Sharif University of Technology.
+
